@@ -1,14 +1,22 @@
+using Microsoft.EntityFrameworkCore;
+using Projeto_Final_Atos.Models;
+
 namespace Projeto_Final_Atos
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+            
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<DataContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"));
+            });
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

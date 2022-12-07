@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\Projeto_Final_Atos.bundle.scp.css"
     },
     {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Projeto_Final_Atos\\wwwroot\\css\\livro1.webp",
+      "PackagePath": "staticwebassets\\css\\livro1.webp"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Projeto_Final_Atos\\wwwroot\\css\\livro2.html",
+      "PackagePath": "staticwebassets\\css\\livro2.html"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Projeto_Final_Atos\\wwwroot\\css\\livro3.jpg",
+      "PackagePath": "staticwebassets\\css\\livro3.jpg"
+    },
+    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Projeto_Final_Atos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

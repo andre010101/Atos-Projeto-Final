@@ -25,4 +25,10 @@
     <Folder Include="Migrations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\livro1.webp" />
+    <None Include="wwwroot\css\livro2.html" />
+    <None Include="wwwroot\css\livro3.jpg" />
+  </ItemGroup>
+
 </Project>

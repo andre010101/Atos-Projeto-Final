@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w2Wa0/24wQLXKEkFgtsvF8r5sq7QKWcHCHsVU2a6L6o=",
+  "Hash": "Q8y87eLXt40fc7n+vYM2M9E6UNA6QjF2foOsCCauoTk=",
   "Source": "Proje Final Atos",
   "BasePath": "_content/Proje Final Atos",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\fotoLivro2.jpg"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fundo.jpg",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/fundo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\fundo.jpg"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\os seis finalistas.jpg",

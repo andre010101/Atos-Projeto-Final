@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fumgO9bBzwy9c2DUAqLxUIZkeAblHhKlRe6uOAvnVMs=",
+  "Hash": "yfIy66SpNgNNFVM5BD7IhN3r7dv+odY29PbG4Kh7slA=",
   "Source": "Proje Final Atos",
   "BasePath": "_content/Proje Final Atos",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proje Final Atos.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\capa harry potter.jpg",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/capa harry potter.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\capa harry potter.jpg"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\caraval.jpg",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/caraval.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\caraval.jpg"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Codigo_Limpo-scaled.jpg",
@@ -102,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\css\\fotoLivro2.jpg"
     },
     {
-      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\livro3.png",
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\os seis finalistas.jpg",
       "SourceId": "Proje Final Atos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
       "BasePath": "_content/Proje Final Atos",
-      "RelativePath": "css/livro3.png",
+      "RelativePath": "css/os seis finalistas.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,24 +150,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\livro3.png"
-    },
-    {
-      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\livroCat.jpg",
-      "SourceId": "Proje Final Atos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
-      "BasePath": "_content/Proje Final Atos",
-      "RelativePath": "css/livroCat.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\livroCat.jpg"
+      "OriginalItemSpec": "wwwroot\\css\\os seis finalistas.jpg"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\site.css",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Walker-Scobell-Percy-Jackson.png",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/Walker-Scobell-Percy-Jackson.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Walker-Scobell-Percy-Jackson.png"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\favicon.ico",

@@ -4,12 +4,15 @@
     ViewData["Title"] = "Create";
 }
 
-<h1 class="text-white">Adicionar um Novo Livro</h1>
+
 
 
 <hr />
-<div class="row border border-light shadow-sm p-2 mb-5 bg-secondary">
-    <div class="col-md-4">
+<div class=" border border-dark shadow-sm p-1 mb-1 bg-gradient">
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <h1 class="text-white">Adicionar um Novo Livro</h1>
+    <div class="col-md-5">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group  text-white">
@@ -42,20 +45,22 @@
                 <input asp-for="Capa" class="form-control" />
                 <span asp-validation-for="Capa" class="text-danger"></span>
             </div>
-            <div class="form-group  text-white">
+            <div class="form-group   text-white">
                 <label asp-for="Resenha" class="control-label"></label>
-                <input asp-for="Resenha" class="form-control" />
+                <input asp-for="Resenha" class="form-control border-dark w-100 h-200  " />
                 <span asp-validation-for="Resenha" class="text-danger"></span>
             </div>
-            <div class="form-group  text-white">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="form-group  text-white ">
+                <input type="submit" value="Adicionar" class="btn btn-success  w-100" />
             </div>
         </form>
+        </div>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div >
+    <a asp-action="Index" class="text-decoration-none ">Voltar para a lista de Livros</a>
 </div>
 
 @section Scripts {

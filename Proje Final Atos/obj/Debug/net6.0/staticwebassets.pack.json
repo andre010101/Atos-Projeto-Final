@@ -25,10 +25,6 @@
       "PackagePath": "staticwebassets\\css\\caraval.jpg"
     },
     {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fotoLivro1.webp",
-      "PackagePath": "staticwebassets\\css\\fotoLivro1.webp"
-    },
-    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fotoLivro2.jpg",
       "PackagePath": "staticwebassets\\css\\fotoLivro2.jpg"
     },
@@ -37,8 +33,16 @@
       "PackagePath": "staticwebassets\\css\\fundo.jpg"
     },
     {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\icons8-user-50.png",
+      "PackagePath": "staticwebassets\\css\\icons8-user-50.png"
+    },
+    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\os seis finalistas.jpg",
       "PackagePath": "staticwebassets\\css\\os seis finalistas.jpg"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\perfil",
+      "PackagePath": "staticwebassets\\css"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\site.css",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q8y87eLXt40fc7n+vYM2M9E6UNA6QjF2foOsCCauoTk=",
+  "Hash": "6v2Bv8+oYIHejMZhL3oIcOT4rLbv68X6UhqG6+NVq4k=",
   "Source": "Proje Final Atos",
   "BasePath": "_content/Proje Final Atos",
   "Mode": "Default",
@@ -102,23 +102,6 @@
       "OriginalItemSpec": "wwwroot\\css\\Codigo_Limpo-scaled.jpg"
     },
     {
-      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fotoLivro1.webp",
-      "SourceId": "Proje Final Atos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
-      "BasePath": "_content/Proje Final Atos",
-      "RelativePath": "css/fotoLivro1.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\fotoLivro1.webp"
-    },
-    {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fotoLivro2.jpg",
       "SourceId": "Proje Final Atos",
       "SourceType": "Discovered",
@@ -153,6 +136,23 @@
       "OriginalItemSpec": "wwwroot\\css\\fundo.jpg"
     },
     {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\icons8-user-50.png",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/icons8-user-50.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\icons8-user-50.png"
+    },
+    {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\os seis finalistas.jpg",
       "SourceId": "Proje Final Atos",
       "SourceType": "Discovered",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\os seis finalistas.jpg"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\perfil",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/perfil",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\perfil"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Sandman_Netflix.webp",

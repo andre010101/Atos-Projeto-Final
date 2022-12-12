@@ -6,56 +6,62 @@
 
 
 
-<div class="text-white border border-dark shadow-sm p-1 mb-1 bg-gradient">
-    <h1>Details</h1>
-    <h4>Livro</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Titulo)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Titulo)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.SubTitulo)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.SubTitulo)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Autor)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Autor)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Genero)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Genero)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Idioma)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Idioma)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Capa)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Capa)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Resenha)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Resenha)
-        </dd>
-    </dl>
+<div class="border border-dark shadow-sm p-1 mb-1 bg-gradient">
+    <div class="container text-white">
+        <div class="row justify-content-md-center">
+            <h1>Details</h1>
+            <h4>Livro</h4>
+            <hr />
+            <dl class="row-md">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Titulo)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Titulo)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.SubTitulo)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.SubTitulo)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Autor)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Autor)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Genero)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Genero)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Idioma)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Idioma)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Capa)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Capa)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Resenha)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Resenha)
+                </dd>
+            </dl>
+        </div>
+    </div>
 </div>
 <div>
-    <a class="text-decoration-none" asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
-    <a class="text-decoration-none" asp-action="Index">Voltar para Lista</a>
+    <button type="button" class="btn btn-warning">
+        <a class="text-decoration-none text-white" asp-action="Edit" asp-route-id="@Model?.Id">Editar</a>
+    </button>|
+    <a asp-action="Index"><button type="button" class="btn btn-success">Voltar para lista</button> </a>
 </div>

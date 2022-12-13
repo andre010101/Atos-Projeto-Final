@@ -2,3 +2,13 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+
+$(document).ready(function () {
+    $('#example').DataTable({
+
+        "language": {
+            "url": "//cdn.datatables.net/plug-ins/1.13.1/i18n/pt-BR.json"
+        }
+    });
+
+});

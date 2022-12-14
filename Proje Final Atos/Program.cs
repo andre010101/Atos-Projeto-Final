@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Proje_Final_Atos.Models;
 
@@ -7,7 +8,7 @@ namespace Proje_Final_Atos
     {
         public static void Main(string[] args)
         {
-           
+
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddDbContext<DataContext>(options =>

@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\css\\Aelin Galathynius..jpeg"
     },
     {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Codigo_Limpo-scaled.jpg",
+      "PackagePath": "staticwebassets\\css\\Codigo_Limpo-scaled.jpg"
+    },
+    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Sandman_Netflix.webp",
       "PackagePath": "staticwebassets\\css\\Sandman_Netflix.webp"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Walker-Scobell-Percy-Jackson.png",
       "PackagePath": "staticwebassets\\css\\Walker-Scobell-Percy-Jackson.png"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\bannerLivros.webp",
+      "PackagePath": "staticwebassets\\css\\bannerLivros.webp"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\booksadd.jpg",
@@ -63,6 +71,10 @@
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\os seis finalistas.jpg",
       "PackagePath": "staticwebassets\\css\\os seis finalistas.jpg"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\padroes.jpg",
+      "PackagePath": "staticwebassets\\css\\padroes.jpg"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\perfil",

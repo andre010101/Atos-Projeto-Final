@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\Proje Final Atos.bundle.scp.css"
     },
     {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Codigo_Limpo-scaled.jpg",
-      "PackagePath": "staticwebassets\\css\\Codigo_Limpo-scaled.jpg"
-    },
-    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Sandman_Netflix.webp",
       "PackagePath": "staticwebassets\\css\\Sandman_Netflix.webp"
     },
@@ -25,16 +21,28 @@
       "PackagePath": "staticwebassets\\css\\caraval.jpg"
     },
     {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fotoLivro2.jpg",
-      "PackagePath": "staticwebassets\\css\\fotoLivro2.jpg"
-    },
-    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fundo.jpg",
       "PackagePath": "staticwebassets\\css\\fundo.jpg"
     },
     {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\gandalf.webp",
+      "PackagePath": "staticwebassets\\css\\gandalf.webp"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\hermione.webp",
+      "PackagePath": "staticwebassets\\css\\hermione.webp"
+    },
+    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\icons8-user-50.png",
       "PackagePath": "staticwebassets\\css\\icons8-user-50.png"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\livro-fechado-marrom_135176-141.webp",
+      "PackagePath": "staticwebassets\\css\\livro-fechado-marrom_135176-141.webp"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\ordem-livros-o-trono-de-vidro.jpeg",
+      "PackagePath": "staticwebassets\\css\\ordem-livros-o-trono-de-vidro.jpeg"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\os seis finalistas.jpg",

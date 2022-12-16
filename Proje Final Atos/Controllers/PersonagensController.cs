@@ -13,5 +13,11 @@ namespace Proje_Final_Atos.Controllers
         {
             return View();
         }
+
+
+        public IActionResult Aelin()
+        {
+            return View();
+        }
     }
 }

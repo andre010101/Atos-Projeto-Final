@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aV7d/hiZ5nShq+rije+RpS8lk6+jC47RlbIxs/XF6vs=",
+  "Hash": "9VVyxcBrWAcmalSuKs5ecuc/ecV+macPklUPKCFmdAI=",
   "Source": "Proje Final Atos",
   "BasePath": "_content/Proje Final Atos",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Aelin Galathynius..jpeg"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\AelinPage.jpg",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/AelinPage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AelinPage.jpg"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\banner",

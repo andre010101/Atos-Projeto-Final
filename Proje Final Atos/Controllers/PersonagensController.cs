@@ -8,5 +8,10 @@ namespace Proje_Final_Atos.Controllers
         {
             return View();
         }
+
+        public IActionResult Gandalf()
+        {
+            return View();
+        }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9VVyxcBrWAcmalSuKs5ecuc/ecV+macPklUPKCFmdAI=",
+  "Hash": "SyYz4nSVrFv3CQGtWw4gi0dKIc8WyTaEjjYkcwVGU6s=",
   "Source": "Proje Final Atos",
   "BasePath": "_content/Proje Final Atos",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\caraval.jpg"
+    },
+    {
+      "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\CodificadorLimpo.jpg",
+      "SourceId": "Proje Final Atos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\",
+      "BasePath": "_content/Proje Final Atos",
+      "RelativePath": "css/CodificadorLimpo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CodificadorLimpo.jpg"
     },
     {
       "Identity": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Codigo_Limpo-scaled.jpg",

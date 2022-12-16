@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\Aelin Galathynius..jpeg"
     },
     {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\BANNER-Books.webp",
+      "PackagePath": "staticwebassets\\css\\BANNER-Books.webp"
+    },
+    {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Codigo_Limpo-scaled.jpg",
       "PackagePath": "staticwebassets\\css\\Codigo_Limpo-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Hermione-2.webp",
+      "PackagePath": "staticwebassets\\css\\Hermione-2.webp"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\Sandman_Netflix.webp",
@@ -21,12 +29,8 @@
       "PackagePath": "staticwebassets\\css\\Walker-Scobell-Percy-Jackson.png"
     },
     {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\bannerLivros.webp",
-      "PackagePath": "staticwebassets\\css\\bannerLivros.webp"
-    },
-    {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\booksadd.jpg",
-      "PackagePath": "staticwebassets\\css\\booksadd.jpg"
+      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\banner",
+      "PackagePath": "staticwebassets\\css"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\capa harry potter.jpg",
@@ -35,10 +39,6 @@
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\caraval.jpg",
       "PackagePath": "staticwebassets\\css\\caraval.jpg"
-    },
-    {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\estante-de-livros-antiga-fundo-vintage_53876-160404.jpg",
-      "PackagePath": "staticwebassets\\css\\estante-de-livros-antiga-fundo-vintage_53876-160404.jpg"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\fundo.jpg",
@@ -59,10 +59,6 @@
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\icons8-user-50.png",
       "PackagePath": "staticwebassets\\css\\icons8-user-50.png"
-    },
-    {
-      "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\livro-fechado-marrom_135176-141.webp",
-      "PackagePath": "staticwebassets\\css\\livro-fechado-marrom_135176-141.webp"
     },
     {
       "Id": "C:\\Ambiente\\Andre\\Projeto final Atos\\Proje Final Atos\\wwwroot\\css\\ordem-livros-o-trono-de-vidro.jpeg",

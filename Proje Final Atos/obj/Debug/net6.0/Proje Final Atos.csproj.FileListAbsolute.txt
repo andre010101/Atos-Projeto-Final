@@ -286,3 +286,4 @@ C:\Ambiente\Andre\Projeto final Atos\Proje Final Atos\bin\Debug\net6.0\runtimes\
 C:\Ambiente\Andre\Projeto final Atos\Proje Final Atos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Ambiente\Andre\Projeto final Atos\Proje Final Atos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Ambiente\Andre\Projeto final Atos\Proje Final Atos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Ambiente\Andre\Projeto final Atos\Proje Final Atos\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
